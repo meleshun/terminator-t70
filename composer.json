@@ -1,0 +1,20 @@
+{
+    "name": "meleshun/terminator-t70",
+    "description": "Алгоритм автоматического воспитания джуна",
+    "license": "MIT",
+    "homepage": "https://github.com/meleshun/terminator-t70",
+    "authors": [
+        {
+            "name": "Daniil Meleshun",
+            "email": "meleshun@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Meleshun\\": "src/"
+        }
+    }
+}
